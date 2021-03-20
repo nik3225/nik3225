@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nik3225
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data analytics using machine learning algorithms
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nikhilrana3225@gmail.com
 
 <!---
